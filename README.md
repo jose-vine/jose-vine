@@ -2,7 +2,7 @@ Prazer, José Vine 👋
 
 Sobre mim:
 <hr>
-<p>Sou um estudante apaixonado pelo conhecimento, sempre dispoto a aprender coisas novas. A programação entrou na minha vida quando ingressei no IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Não tinha nenhuma ideia de como esse mundo funcionava, mas, à medida que eu estudava tecnologias até então desconhecidas, mais eu me fascinava pelo desenvolvimento de software. Minha aspiração é me tornar um desenvolvedor back-end.</p>
+<p>Sou um estudante apaixonado pelo conhecimento, sempre dispoto a aprender coisas novas. A programação entrou na minha vida quando ingressei no IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, do qual obtive a minha formação em Técnico em Informática. Não tinha nenhuma ideia de como esse mundo funcionava, mas, à medida que eu estudava tecnologias até então desconhecidas, mais eu me fascinava pelo desenvolvimento de software. Minha aspiração é me tornar um desenvolvedor fullstack, com foco inicial em front-end.</p>
 <br>
 <p>Tecnologias aprendidas:</p>
 <hr>
@@ -17,7 +17,5 @@ Sobre mim:
 <p>Tecnologias que estou aprendendo/pretendo aprender:</p>
 <hr>
 <div>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </div>
